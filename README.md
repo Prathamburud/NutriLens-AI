@@ -2,7 +2,7 @@
 
 ### AI-Powered Food Nutrition & Calorie Analyzer
 
-🌐 **Live Demo:** https://prathamburud.pythonanywhere.com/
+🌐 **Live Demo:** https://prathamburud.pythonanywhere.com
 
 NutriLens AI is a web application that analyzes food images and provides nutritional information such as calories, protein, carbohydrates, fats, and dietary fiber.
 
@@ -47,5 +47,18 @@ Open your browser and visit:
 ```bash
 http://127.0.0.1:5000
 ```
+
+## 📁 Project Structure
+```text
+nutrition-detection-app/
+├── app.py
+├── utils/
+├── templates/
+├── static/
+├── uploads/
+├── requirements.txt
+└── README.md
+```
+
 
 
