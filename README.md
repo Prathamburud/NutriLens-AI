@@ -31,3 +31,21 @@ NutriLens AI is a web application that analyzes food images and provides nutriti
 ```bash
 git clone https://github.com/prathamburud-design/nutrition-detection-app.git
 cd nutrition-detection-app
+```
+
+## 2. Install Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+## 3. Run the Application
+```bash
+python app.py
+```
+Open your browser and visit:
+```bash
+http://127.0.0.1:5000
+```
+
+
