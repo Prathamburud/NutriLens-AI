@@ -60,5 +60,9 @@ nutrition-detection-app/
 └── README.md
 ```
 
+## 👨‍💻 Author
+
+**Pratham Burud**
+
 
 
